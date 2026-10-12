@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@v5
         with:
           repository: My-Name-Is-Jeff/vitrine
-          ref: e6a6643f1e1e2273dbb8508fb76e1d42f6afec26
+          ref: 28d6c2d223292168a4fc8d11f7c8f2470bc869b6
       - uses: levibostian/action-hide-sensitive-inputs@v1
       - uses: maxim-lobanov/setup-xcode@v1
         with:
